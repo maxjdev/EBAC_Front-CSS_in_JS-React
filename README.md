@@ -22,17 +22,19 @@ This project consists of migrating a system that originally used CSS Modules to 
 
 ## How to Start the Project
 
-- **Clone the Repository:**
-
+- **Clone the repository:**
 ```bash
 git clone https://github.com/your-username/repository-name.git
 ```
+- **Open the project directory:**
 ```bash
 cd repository-name
 ```
+- **Install project dependencies:**
 ```bash
 npm install
 ```
+- **Start:**
 ```bash
 npm start
 ```
